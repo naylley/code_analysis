@@ -1,0 +1,3 @@
+[submodule "tarpit-java2"]
+	path = tarpit-java2
+	url = https://github.com/ShiftLeftSecurity/tarpit-java
